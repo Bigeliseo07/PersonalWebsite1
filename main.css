@@ -1,0 +1,32 @@
+body{
+	background: url(http://weknowyourdreams.com/images/space/space-03.jpg);
+}
+
+h1{
+	text-align: center;
+	font-style: italic;
+	color: white;
+	font-size: 60px;
+}
+
+section{
+    box-sizing: border-box;
+    color: #FFFFFF;
+}
+h1{
+	margin: none;
+}
+
+.face{
+	font-style: italic;
+}
+
+div.class{
+    box-sizing: border-box;
+    font-family: italic;
+    font-weight: normal;
+    font-size: 62px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 12px 0;
+  }
